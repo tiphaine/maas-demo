@@ -1,0 +1,12 @@
+- Morning
+	- Time range: Lundi au vendredi / 8h-10h
+	- [Morning heatmap](https://tiphaine.github.io/maas-demo/demo/time-range-test/paris-2019-04-10-morning-dbscan-heatmap_poi.html)
+- 	Noon
+	-  Time range: Lundi au vendredi / 11h-14h
+	-  [Noon heatmap](https://tiphaine.github.io/maas-demo/demo/time-range-test/paris-2019-04-10-noon-dbscan-heatmap_poi.html)
+-  Afternoon
+	-  Time range: Lundi au vendredi / 13h-19h
+	-  [Afternoon heatmap](https://tiphaine.github.io/maas-demo/demo/time-range-test/paris-2019-04-10-afternoon-dbscan-heatmap_poi.html)
+-  Full day
+	-  Time range: Lundi au vendredi / 8h-19h
+	-  [Full day heatmap](https://tiphaine.github.io/maas-demo/demo/time-range-test/paris-2019-04-10-day-dbscan-heatmap_poi.html)
