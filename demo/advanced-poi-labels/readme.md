@@ -30,4 +30,4 @@ Ordered as follows:
 	-  [Noon heatmap](https://tiphaine.github.io/maas-demo/demo/advanced-poi-labels/paris-2019-04-18-final_dbscan-diff_heatmap_poi_noon.html)
 -  Afternoon
 	-  Time range: Lundi au vendredi / 13h-19h
-	-  [Afternoon heatmap](https://tiphaine.github.io/maas-demo/demo/advanced-poi-labels/pparis-2019-04-18-final_dbscan-diff_heatmap_poi_afternoon.html)
+	-  [Afternoon heatmap](https://tiphaine.github.io/maas-demo/demo/advanced-poi-labels/paris-2019-04-18-final_dbscan-diff_heatmap_poi_afternoon.html)
